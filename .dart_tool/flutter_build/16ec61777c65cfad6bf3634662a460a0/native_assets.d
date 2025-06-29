@@ -1,0 +1,1 @@
+ C:\\Users\\arg\\Kelompok3_UAS\\.dart_tool\\flutter_build\\16ec61777c65cfad6bf3634662a460a0\\native_assets.yaml: 

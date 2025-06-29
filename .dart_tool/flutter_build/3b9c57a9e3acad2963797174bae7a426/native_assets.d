@@ -1,0 +1,1 @@
+ C:\\Users\\willy\\Downloads\\KELOMPOK\ 3-20241103T070733Z-001\\KELOMPOK\ 3\\.dart_tool\\flutter_build\\3b9c57a9e3acad2963797174bae7a426\\native_assets.yaml: 

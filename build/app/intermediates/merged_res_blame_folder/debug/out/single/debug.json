@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.codia_demo_flutter.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.codia_demo_flutter.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.codia_demo_flutter.app-merged_res-41:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.codia_demo_flutter.app-main-35:/drawable-v21/launch_background.xml"
+    }
+]
