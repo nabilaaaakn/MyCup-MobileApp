@@ -94,10 +94,15 @@ Login & Sign Up sudah terhubung ke database, meskipun proses *read* data lanjuta
 
 🙋‍♂️ Pengembang
 👤 Willy Jonatan - Programmer
+
 👤 Nabila Khairun Nisa - Programmer
+
 👤 Fadel Setiawan - Programmer
+
 👤 Muhammad Azril Saputra - Designer UI/UX
+
 👤 Hafizhah Dea Az Zahrah - Database
+
 👤 Rara Kholillah - Database
 Mahasiswa Sistem Informasi – Universitas Bakrie
 
