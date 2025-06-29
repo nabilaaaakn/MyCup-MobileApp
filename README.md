@@ -93,6 +93,7 @@ Login & Sign Up sudah terhubung ke database, meskipun proses *read* data lanjuta
 5. **Run App**
 
 🙋‍♂️ Pengembang
+
 👤 Willy Jonatan - Programmer
 
 👤 Nabila Khairun Nisa - Programmer
@@ -107,5 +108,6 @@ Login & Sign Up sudah terhubung ke database, meskipun proses *read* data lanjuta
 Mahasiswa Sistem Informasi – Universitas Bakrie
 
 📌 Catatan
+
 Project ini masih dalam tahap pengembangan dan akan terus disempurnakan.
 Terima kasih atas perhatiannya 🙏
